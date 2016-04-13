@@ -45,7 +45,7 @@ namespace MurlocPaladin
                 }
                 else
                 {
-                    MessageBox.Show("鱼人数目不对啊，你逗我！");
+                    MessageBox.Show("这个数量是错误的");
                 }
             }
             else
